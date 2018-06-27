@@ -1,0 +1,12 @@
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\bin\Debug\TPP Software for Roar.exe.config
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\bin\Debug\TPP Software for Roar.exe
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\bin\Debug\TPP Software for Roar.pdb
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\obj\Debug\TPP Software for Roar.csprojResolveAssemblyReference.cache
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\obj\Debug\TPP_Software_for_Roar.Form1.resources
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\obj\Debug\TPP_Software_for_Roar.Properties.Resources.resources
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\obj\Debug\TPP Software for Roar.csproj.GenerateResource.cache
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\obj\Debug\TPP Software for Roar.csproj.CoreCompileInputs.cache
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\obj\Debug\TPP Software for Roar.exe
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\obj\Debug\TPP Software for Roar.pdb
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\obj\Debug\TPP_Software_for_Roar.MainProgram.resources
+F:\testing before upload\TPP Software for Roar\TPP Software for Roar\obj\Debug\TPP_Software_for_Roar.About.resources
