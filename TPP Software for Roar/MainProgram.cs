@@ -27,5 +27,11 @@ namespace TPP_Software_for_Roar
             About ab = new About();
             ab.ShowDialog();
         }
+
+        private void newToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new_document_option nw = new new_document_option();
+            nw.ShowDialog();
+        }
     }
 }
