@@ -23,3 +23,6 @@ F:\C# Project\TPS-Assignment\TPP Software for Roar\obj\Debug\TPP Software for Ro
 F:\C# Project\TPS-Assignment\TPP Software for Roar\obj\Debug\TPP Software for Roar.exe
 F:\C# Project\TPS-Assignment\TPP Software for Roar\obj\Debug\TPP Software for Roar.pdb
 F:\C# Project\TPS-Assignment\TPP Software for Roar\obj\Debug\TPP_Software_for_Roar.new_document_option.resources
+C:\Users\FelixDracul\Documents\GitHub\TPS-Assignment\TPP Software for Roar\bin\Debug\TPP Software for Roar.exe.config
+C:\Users\FelixDracul\Documents\GitHub\TPS-Assignment\TPP Software for Roar\obj\Debug\TPP Software for Roar.exe
+C:\Users\FelixDracul\Documents\GitHub\TPS-Assignment\TPP Software for Roar\obj\Debug\TPP Software for Roar.pdb

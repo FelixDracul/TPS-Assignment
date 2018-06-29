@@ -28,7 +28,8 @@ namespace TPP_Software_for_Roar
             {
                 this.Hide();
                 MainProgram ss = new MainProgram();
-                ss.Show();
+                ss.ShowDialog();
+                this.Close();
             }
             else
             {
