@@ -7,11 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace TPP_Software_for_Roar
 {
     public partial class MainProgram : Form
     {
+        string path;
+
         public MainProgram()
         {
             InitializeComponent();
@@ -49,6 +52,24 @@ namespace TPP_Software_for_Roar
 
         private void label1_Click(object sender, EventArgs e)
         {
+
+        }
+
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            /*using (OpenFileDialog ofd = new OpenFileDialog() { Filter = "Excel Workbook|*.xlsx", ValidateNames = true, Multiselect = false })
+            {
+                if(ofd.ShowDialog()==DialogResult.OK)
+                {
+                    using (StreamReader sr = new StreamReader(ofd.FileName))
+                    {
+                        path = ofd.FileName;
+                        Task<string> text = sr.ReadToEndAsync();
+                        textBox1.Text = text.Result;
+                    }
+                }
+            }*/
 
         }
     }
